@@ -1,0 +1,2 @@
+2021-06-02T04:51:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\hoastore\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-posts-controller.php on line 9
+
